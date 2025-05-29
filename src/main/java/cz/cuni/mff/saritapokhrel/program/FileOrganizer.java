@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import  java.nio.file.Path;
 import static java.nio.file.Path.of;
 
-class FileOrganizer {
+public class FileOrganizer {
     public static void main(String[] args) {
         if (args.length==0)
         {
